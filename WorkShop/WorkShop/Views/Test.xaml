@@ -4,7 +4,7 @@
              x:Class="WorkShop.Views.Test">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
+            <Label Text="first change " />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
