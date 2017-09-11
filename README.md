@@ -1,0 +1,2 @@
+# VisualStudioMobileCenter
+TestApp for VSMB
